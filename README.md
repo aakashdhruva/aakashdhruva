@@ -14,7 +14,7 @@ I love to play chess
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashdhruva)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](href="mailto:dhruvaaakash@utexas.edu")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruvaaakash@utexas.edu)
 
 
 ## 💻 Tech Stack:
